@@ -100,5 +100,4 @@
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: andrew.matte@gmail.com</li>
-          
-        </ul>
+</ul>
